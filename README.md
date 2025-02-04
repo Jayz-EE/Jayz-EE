@@ -20,9 +20,7 @@
 ## 📫 How to reach me ...
 - Email: [jayzherjuaniza@gmail.com](mailto:jayzherjuaniza@gmail.com)
 - LinkedIn: [Jayzher Juaniza](https://www.linkedin.com/in/jayzherjuaniza)
-
-## 😄 Pronouns: He/Him
-
+- 
 ## ⚡ Fun fact:
 - I love to experiment with new technologies, build side projects, and contribute to the community.
   
