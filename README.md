@@ -12,7 +12,6 @@
 - Python and its Libraries
 
 ## 💞️ I’m looking to collaborate on ...
-- AI projects
 - Full-stack applications
 - Web development projects
 - Open-source contributions
