@@ -4,6 +4,7 @@
 - Full-Stack Development
 - Game Development
 - Open-Source Projects
+- New
 
 ## 🌱 I’m currently learning ...
 - Django (Backend Framework)
