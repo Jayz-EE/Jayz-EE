@@ -57,12 +57,6 @@ Open-source projects
 
 AI-integrated systems
 
-📫 Contact Me
-
-📧 Email: jayzherjuaniza@gmail.com
-
-💼 LinkedIn: Jayzher Juaniza
-
 ⚡ Fun Fact
 
 I love exploring new technologies, prototyping ideas into real projects, and building tools that help others work smarter — not just harder.
