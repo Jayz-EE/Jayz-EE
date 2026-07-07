@@ -33,7 +33,7 @@ Python Libraries for automation and AI integration
 
 💼 Recent Work & Experience
 
-🕓 1 Year and 2 Months of professional experience delivering production-grade web systems:
+🕓 2 Year of professional experience delivering production-grade web systems:
 
 🏫 3 School Websites with custom CMS & content workflows
 
