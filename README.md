@@ -13,13 +13,11 @@ MERN Stack Applications (MongoDB, Express, React, Node.js)
 
 SaaS Platforms & Modular Architecture
 
-AI in Education Systems
+AI integrated Systems
 
 Game Development & Interactive Design
 
-Open-Source Collaboration
-
-🌱 Currently Learning
+🌱 Upskills
 
 Django + Django Rest Framework (API-first backend design)
 
@@ -39,7 +37,13 @@ Python Libraries for automation and AI integration
 
 📚 Record Management System (RMS) for student data and grading automation
 
-🧩 School Attendance Monitoring System (SAMS) MVP – scalable foundation for future SaaS expansion
+👨‍💻 School Attendance Monitoring System (SAMS)
+
+💼 Asset Management System (AMS)
+
+🧩 Material Inventory System (MIS) 
+
+🧩 Support Tickets and Task Management System (STTMS) 
 
 🏢 2 Static Business Websites for local enterprises
 
